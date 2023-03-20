@@ -1,0 +1,16 @@
+
+[
+
+    {
+        "textType":0,
+        "autoPlay":0,
+        "nextText":0,
+        "text":"开始游戏"
+    },
+    {
+        "textType":1,
+        "autoPlay":0,
+        "nextText":0,
+        "text":"正文"
+    }
+]
